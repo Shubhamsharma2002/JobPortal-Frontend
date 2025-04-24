@@ -3,7 +3,7 @@ function App() {
  
   return (
      <>
-      setup checkming 
+       <h1 className="text-amber-900">talwind css setup</h1>
      </>
   )
 }
