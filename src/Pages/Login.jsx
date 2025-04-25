@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Login() {
-  return (
-    <div>Login</div>
-  )
+const Login = () =>{
+    return(
+        <h3 className='text-cyan-600'>welcome from login</h3>
+    )
 }
 
 export default Login
