@@ -1,9 +1,11 @@
+
 import React from 'react'
 
-function Navbar() {
-  return (
-    <div>Navbar</div>
-  )
+const Navbar = () =>{
+    return(
+        <h3 className='text-blue-500'>response from Navbar</h3>
+    )
 }
 
 export default Navbar
+
